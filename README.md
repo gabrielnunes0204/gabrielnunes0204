@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gabriel_Nues
 - 👀 I’m interested in look for opportunities for professional and personal developmen
-- 🌱 I’m currently learning  HTML, CSS, Bootstrap, JavaScript, UI, VueJS
+- 🌱 I currently have knowledge in HTML, CSS, JavaScript, Bootstrap, notion UI and UX Design, notion GIT, MySQL
+- 🌱 I'm learning VueJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriel.microsmp@gmail.com or www.linkedin.com/in/gabriel-n-1b02a2128
 
